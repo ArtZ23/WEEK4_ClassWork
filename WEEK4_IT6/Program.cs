@@ -6,11 +6,15 @@ namespace WEEK4_IT6
 	{
 		static void Main(string[] args)
 		{
-			Console.BackgroundColor = ConsoleColor.Green;
-			Console.ForegroundColor = ConsoleColor.Red;
 			Console.WriteLine("Hello World!");
 			Console.WriteLine("This is my new project");
 			Console.WriteLine("This is my new project");
+
+			Console.WriteLine("   /|");
+			Console.WriteLine("  / |");
+			Console.WriteLine(" /  |");
+			Console.WriteLine("/___|");
+
 		}
 	}
 }
